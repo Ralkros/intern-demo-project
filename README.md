@@ -1,2 +1,2 @@
 # intern-demo-project
-Enter your description here
+This repository was created as part of intern training
